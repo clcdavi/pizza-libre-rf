@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Pizza slice shadow -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M54,84 L26,30 Q54,23 82,30 Z" />
+
+    <!-- Pizza slice body (Cheese) -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,82 L27,31 Q54,25 81,31 Z" />
+
+    <!-- Pizza crust (Top curve) -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M26,31 Q54,23 82,31 Q81,25 54,23 Q27,25 26,31 Z" />
+    
+    <!-- Melted cheese drip details -->
+    <path
+        android:fillColor="#FFCA28"
+        android:pathData="M38,46 Q40,55 42,48 Q46,58 48,50 Q52,56 54,49 Q58,57 60,50 L54,82 Z" />
+
+    <!-- Pepperonis -->
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M44,40m-5.5,0a5.5,5.5 0,1 1,11 0a5.5,5.5 0,1 1,-11 0" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M42,39m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M64,42m-5.5,0a5.5,5.5 0,1 1,11 0a5.5,5.5 0,1 1,-11 0" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M62,41m-2,0a2,2 0,1 1,4 0a2,2 0,1 1,-4 0" />
+
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M54,58m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0" />
+    <path
+        android:fillColor="#B71C1C"
+        android:pathData="M53,57m-1.8,0a1.8,1.8 0,1 1,3.6 0a1.8,1.8 0,1 1,-3.6 0" />
+
+    <path
+        android:fillColor="#C62828"
+        android:pathData="M54,71m-3.5,0a3.5,3.5 0,1 1,7 0a3.5,3.5 0,1 1,-7 0" />
+
+    <!-- Fresh oregano / basil leaf accents -->
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M48,46 C50,44 53,46 51,48 C49,49 47,47 48,46 Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M60,57 C62,55 64,57 63,59 C61,60 59,58 60,57 Z" />
+    <path
+        android:fillColor="#388E3C"
+        android:pathData="M37,54 C39,52 41,54 40,56 C38,57 36,55 37,54 Z" />
+</vector>

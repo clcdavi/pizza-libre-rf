@@ -1,0 +1,6 @@
+{
+  "name": "Pizza Libre Roca Fuerte",
+  "description": "Gestión y registro de entradas y pagos para el evento de pizza libre de la iglesia Roca Fuerte",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
